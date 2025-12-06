@@ -1,0 +1,6 @@
+{"username":"ram","text":"hello","time":"5:28 pm","people":"people-1","createdAt":{"$$date":1765020514122},"_id":"BdZWNwPh9FZnVF0L"}
+{"username":"sid","text":"hi","time":"5:28 pm","people":"people-1","createdAt":{"$$date":1765020509881},"_id":"VGGpPNdfPAoeuqyK"}
+{"$$indexCreated":{"fieldName":"people","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"createdAt","unique":false,"sparse":false}}
+{"username":"ram","text":"hi","time":"5:33 pm","people":"people-1","createdAt":{"$$date":1765020805011},"_id":"tDACjy1x0oMxeXCf"}
+{"username":"sid","text":"hi","time":"5:33 pm","people":"people-1","createdAt":{"$$date":1765020807984},"_id":"f7eVpNpyUs7t4oa5"}
